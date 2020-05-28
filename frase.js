@@ -12,6 +12,7 @@ p.innerHTML = frase;
 
 document.querySelector(".caixaTexto").appendChild(p);
 
+alert("poxa vida deu certo");
 
 
 });
