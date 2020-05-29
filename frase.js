@@ -14,5 +14,7 @@ document.querySelector(".caixaTexto").appendChild(p);
 
 alert("poxa vida deu certo");
 
+alert("sempre busque novas formas de trabalho");
+
 
 });
